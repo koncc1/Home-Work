@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\middlewares\\reqloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\middlewares\\reqloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\extensions\\authenticationpipelineextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\extensions\\authenticationpipelineextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\extensions\\reqlogginmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\extensions\\reqlogginmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\extensions\\apppipelineextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\extensions\\apppipelineextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\tutor\\source\\repos\\cookiedemo\\cookiedemo\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReqLogginMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Extensions\\ReqLogginMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Extensions\\ReqLogginMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Extensions\\ReqLogginMiddlewareExtensions.cs",
+              "RelativeToolTip": "CookieDemo\\Extensions\\ReqLogginMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:05:46.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationPipelineExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Extensions\\AuthenticationPipelineExtensions.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Extensions\\AuthenticationPipelineExtensions.cs",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Extensions\\AuthenticationPipelineExtensions.cs",
+              "RelativeToolTip": "CookieDemo\\Extensions\\AuthenticationPipelineExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:05:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppPipelineExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Extensions\\AppPipelineExtensions.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Extensions\\AppPipelineExtensions.cs",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Extensions\\AppPipelineExtensions.cs",
+              "RelativeToolTip": "CookieDemo\\Extensions\\AppPipelineExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:04:58.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReqLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Middlewares\\ReqLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Middlewares\\ReqLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Middlewares\\ReqLoggingMiddleware.cs",
+              "RelativeToolTip": "CookieDemo\\Middlewares\\ReqLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:00:31.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CookieDemo\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CookieDemo\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T15:44:57.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Program.cs",
+              "RelativeToolTip": "CookieDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:10:34.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CookieDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:15:30.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "CookieDemo\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "CookieDemo\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T15:45:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CookieDemo\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:27:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\tutor\\source\\repos\\CookieDemo\\CookieDemo\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "CookieDemo\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:26:38.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

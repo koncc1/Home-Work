@@ -1,0 +1,14 @@
+﻿@model List<HASHING.Models.User>
+@Html.ActionLink("Login", "Login")
+
+<form method="post" asp-controller="Home" asp-action="Registr">
+    <input type="text" name="Email" placeholder="Email" />
+    <input type="password" name="Password" placeholder="Password" />
+    <button type="submit">Add</button>
+</form>
+
+
+@foreach (var user in Model)
+{
+    <p>@user.Email - @user.Password</p>
+}

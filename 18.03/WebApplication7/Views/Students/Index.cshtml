@@ -1,0 +1,21 @@
+﻿
+@model List<WebApplication7.Models.Student>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Full Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.FullName</td>
+                <td>@student.Age</td>
+            </tr>
+        }
+    </tbody>

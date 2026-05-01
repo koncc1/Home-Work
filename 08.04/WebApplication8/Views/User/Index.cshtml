@@ -1,0 +1,16 @@
+﻿@model List<WebApplication8.Models.UserInputViewModel>
+
+
+<form method="post" asp-controller="User" asp-action="Save">
+    <div>
+        <label>Name:</label>
+        <input type="text" name="Name" />
+    </div>
+
+    <div>
+        <label>Login:</label>
+        <input type="text" name="Login" />
+    </div>
+
+    <button type="submit">Save</button>
+</form>

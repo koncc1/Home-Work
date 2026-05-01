@@ -1,0 +1,23 @@
+﻿@model List<PASSWORD.Models.User>
+
+<table>
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Password</th>
+            <th>PasswordHash</th>
+            <th>salt</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>@user.Password</td>
+                <td>@user.PasswordHash</td>
+                <td>@user.Salt</td>
+
+            </tr>
+        }
+    </tbody>

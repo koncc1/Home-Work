@@ -1,0 +1,11 @@
+﻿@model PASSWORD.DTOs.RegistrDto
+
+<form asp-controller="Auth" asp-action="Register" method="post">
+    <label>Email</label>
+    <input asp-for="Email" />
+
+    <label>Password</label>
+    <input asp-for="Password" />
+
+    <button type="submit">Register</button>
+</form>

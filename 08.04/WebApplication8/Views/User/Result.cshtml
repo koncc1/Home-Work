@@ -1,0 +1,10 @@
+﻿@model List<WebApplication8.Models.UserInputViewModel>
+
+<h2>User list:</h2>
+
+@foreach (var user in Model)
+{
+    <p>Name: @user.Name; Login: @user.Login</p>
+}
+
+<a href="/User/Index">Back</a>

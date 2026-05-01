@@ -1,0 +1,22 @@
+﻿@model WebApplication6.Models.Car
+
+<form method="post" asp-controller="Car" asp-action="Create">
+    <div>
+        <label>bRAND:</label>
+        <input type="text" name="Brand" />
+    </div>
+
+    <div>
+        <label>Model:</label>
+        <input type="text" name="Model" />
+    </div>
+
+    <div>
+        <label>Year:</label>
+        <input type="number" name="Year" />
+    </div>
+
+    <button type="submit">add</button>
+</form>
+
+<a href="/Car/Index">Back</a>

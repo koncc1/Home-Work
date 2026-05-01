@@ -1,0 +1,22 @@
+﻿@model WebApplication7.Models.Course
+
+<h2>ADD COURSE</h2>
+
+<form asp-action="Create" method="post">
+    <p>
+        NAME:
+        <input asp-for="Name" />
+    </p>
+
+    <p>
+        DESCRIOPTION:
+        <input asp-for="Description" />
+    </p>
+
+    <p>
+        HOURS:
+        <input asp-for="Hours" />
+    </p>
+
+    <button type="submit">ADD</button>
+</form>

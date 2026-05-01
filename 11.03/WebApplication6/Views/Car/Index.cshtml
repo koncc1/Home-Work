@@ -1,0 +1,14 @@
+﻿@model List<WebApplication6.Models.Car>
+
+<h2>car list</h2>
+
+<a href="/Car/Create">Add car</a>
+<br />
+<a href="/Car/Search">Search car</a>
+
+<hr />
+
+@foreach (var car in Model)
+{
+    <p>@car.Brand @car.Model, @car.Year</p>
+}

@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koncc\\Desktop\\CookieDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\middlewares\\lastactionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\middlewares\\lastactionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\extensions\\apppipelineextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\extensions\\apppipelineextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\views\\account\\lastaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\views\\account\\lastaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\middlewares\\reqloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\middlewares\\reqloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\extensions\\authenticationpipelineextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\extensions\\authenticationpipelineextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\extensions\\reqlogginmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\extensions\\reqlogginmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|c:\\users\\koncc\\desktop\\cookiedemo\\cookiedemo\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E365A70E-9EAB-4972-864C-8644D935CC96}|CookieDemo\\CookieDemo.csproj|solutionrelative:cookiedemo\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CookieDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CookieDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T17:22:21.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CookieDemo\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:48:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppPipelineExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Extensions\\AppPipelineExtensions.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Extensions\\AppPipelineExtensions.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Extensions\\AppPipelineExtensions.cs",
+              "RelativeToolTip": "CookieDemo\\Extensions\\AppPipelineExtensions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:48:19.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Program.cs",
+              "RelativeToolTip": "CookieDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:48:19.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "CookieDemo\\Controllers\\HomeController1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:48:19.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CookieDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:21:10.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LastActionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Middlewares\\LastActionMiddleware.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Middlewares\\LastActionMiddleware.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Middlewares\\LastActionMiddleware.cs",
+              "RelativeToolTip": "CookieDemo\\Middlewares\\LastActionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:18:07.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "CookieDemo\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:48:19.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReqLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Middlewares\\ReqLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Middlewares\\ReqLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Middlewares\\ReqLoggingMiddleware.cs",
+              "RelativeToolTip": "CookieDemo\\Middlewares\\ReqLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:48:19.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationPipelineExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Extensions\\AuthenticationPipelineExtensions.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Extensions\\AuthenticationPipelineExtensions.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Extensions\\AuthenticationPipelineExtensions.cs",
+              "RelativeToolTip": "CookieDemo\\Extensions\\AuthenticationPipelineExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:48:19.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "CookieDemo\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:21:20.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LastAction.cshtml",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Account\\LastAction.cshtml",
+              "RelativeDocumentMoniker": "CookieDemo\\Views\\Account\\LastAction.cshtml",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Account\\LastAction.cshtml",
+              "RelativeToolTip": "CookieDemo\\Views\\Account\\LastAction.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T17:29:02.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReqLogginMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Extensions\\ReqLogginMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "CookieDemo\\Extensions\\ReqLogginMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Extensions\\ReqLogginMiddlewareExtensions.cs",
+              "RelativeToolTip": "CookieDemo\\Extensions\\ReqLogginMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:48:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "CookieDemo\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "CookieDemo\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T16:48:19.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CookieDemo\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CookieDemo\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T16:48:19.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CookieDemo\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\CookieDemo\\CookieDemo\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CookieDemo\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T17:17:01.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

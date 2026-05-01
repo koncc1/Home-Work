@@ -1,0 +1,17 @@
+﻿@model WebApplication6.Models.Car
+
+<h1> result of search: </h1>
+@if (Model == null)
+{
+    <p>Car dont found</p>
+}
+else
+{
+    <p>Brand: @Model.Brand</p>
+    <p>model: @Model.Model</p>
+    <p>Year: @Model.Year</p>
+}
+
+<a href="/Car/Search">back to search</a>
+<br />
+<a href="/Car/Index">back</a>

@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koncc\\Desktop\\WebApplication7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|c:\\users\\koncc\\desktop\\webapplication7\\webapplication7\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4952BE8A-0ADE-4A68-9A7A-0DD62118F8E2}|WebApplication7\\WebApplication7.csproj|solutionrelative:webapplication7\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication7\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication7\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T15:57:13.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication7\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "WebApplication7\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T15:56:34.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebApplication7\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebApplication7\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:53:17.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "WebApplication7\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Models\\Course.cs",
+              "RelativeToolTip": "WebApplication7\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:51:46.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication7\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication7\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:51:13.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication7\\Program.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Program.cs",
+              "RelativeToolTip": "WebApplication7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:51:13.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication7\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication7\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:51:13.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication7\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "WebApplication7\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T15:51:13.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication7\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "WebApplication7\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T15:51:13.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "WebApplication7\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Services\\StudentService.cs",
+              "RelativeToolTip": "WebApplication7\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:51:13.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebApplication7\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebApplication7\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:51:13.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "WebApplication7\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "WebApplication7\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:51:13.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\DTOs\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "WebApplication7\\DTOs\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\koncc\\Desktop\\WebApplication7\\WebApplication7\\DTOs\\CreateStudentDto.cs",
+              "RelativeToolTip": "WebApplication7\\DTOs\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:51:13.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

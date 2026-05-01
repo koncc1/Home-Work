@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DISK D\\Programing\\C#\\WebApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|c:\\disk d\\programing\\c#\\webapplication6\\webapplication6\\views\\car\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\car\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|c:\\disk d\\programing\\c#\\webapplication6\\webapplication6\\views\\car\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\car\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|c:\\disk d\\programing\\c#\\webapplication6\\webapplication6\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|c:\\disk d\\programing\\c#\\webapplication6\\webapplication6\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|c:\\disk d\\programing\\c#\\webapplication6\\webapplication6\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|c:\\disk d\\programing\\c#\\webapplication6\\webapplication6\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|c:\\disk d\\programing\\c#\\webapplication6\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6E90FC-3EA1-4817-B1B7-0DAA8E57ECA5}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchResult.cshtml",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Views\\Car\\SearchResult.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Car\\SearchResult.cshtml",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Views\\Car\\SearchResult.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Car\\SearchResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:56:24.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Views\\Car\\Search.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Car\\Search.cshtml",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Views\\Car\\Search.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Car\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:55:44.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Views\\Car\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Car\\Create.cshtml",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Views\\Car\\Create.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Car\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:54:54.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Car\\Index.cshtml",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Car\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T09:54:16.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Controllers\\CarController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:52:29.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Car.cs",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Models\\Car.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:51:27.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\WebApplication6\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "WebApplication6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:50:32.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

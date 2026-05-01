@@ -1,0 +1,507 @@
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.csproj.AssemblyReference.cache
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.AssemblyInfoInputs.cache
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.AssemblyInfo.cs
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.csproj.CoreCompileInputs.cache
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.MvcApplicationPartsAssemblyInfo.cache
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.RazorAssemblyInfo.cache
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.RazorAssemblyInfo.cs
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\appsettings.Development.json
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\appsettings.json
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\db.staticwebassets.runtime.json
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\db.staticwebassets.endpoints.json
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\db.exe
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\db.deps.json
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\db.runtimeconfig.json
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\db.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\db.pdb
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Azure.Core.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Azure.Identity.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Humanizer.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.ClientModel.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.CodeDom.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.Memory.Data.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\scopedcss\bundle\db.styles.css
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\scopedcss\projectbundle\db.bundle.scp.css
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\ucga3c4rth-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\4c4ovdkvwd-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\ytuv98ybqx-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\6bxfprvkr7-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\ext49jay1j-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\aigmtebhws-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\co83jky2ry-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\g5zryaslvy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\q51784tt1w-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\6zjjfwm8q6-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\i0kwe556qt-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\itt1s83v40-{0}-ub07r2b239-ub07r2b239.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\oao0v3cn1j-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\k73xr1aw7e-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\5jodfu3kry-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\vg9pn6lhiz-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\vkjvvjo167-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\g2cae1r8iu-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\nntzdwwxj4-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\syjxib4m5k-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\6lzbrbygs3-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\2qecpvy3wr-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\eyuuaucfcn-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\8soyesvx2o-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\lqu1c59ggo-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\u3qh8h4cyv-{0}-06098lyss8-06098lyss8.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\sdqqrhb8uy-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\wvmmixb72l-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\ws2ox7ycow-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\hszozfht3e-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\f7n4wgl0p9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\72mdom3myu-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\4m9o1fvpyt-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\2s0x6ics9p-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\z7mm0p3w06-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\cfp845jly3-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\mcr4w6s2kh-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\iwwy0drvh8-{0}-493y06b0oq-493y06b0oq.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\mazbxjmcus-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\efpom4y3eo-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\tiyxfwst6p-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\qatk7xzw5f-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\wy0sdbmhr9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\z5ajxr3dvz-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\egu7jly1hc-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\swmnujasa7-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\s7z4tgfwt7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\f36z009d5u-{0}-47otxtyo56-47otxtyo56.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\ng683tel2a-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\4iargukh4u-{0}-356vix0kms-356vix0kms.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\p2ykbo0cx2-{0}-83jwlth58m-83jwlth58m.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\i5o9fszwoh-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\mfzagpztiy-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\penxnf6zbr-{0}-ag7o75518u-ag7o75518u.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\kefqetv6ro-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\kyfep969sk-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\n3y1s2xho7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\srlc4nyrvc-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\shwv9i93nm-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\bykjbwb21b-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\t3f0aidkap-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\6n24sfxoyd-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\29t2z0iwx4-{0}-zo4j295d12-zo4j295d12.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\compressed\vmna35h3ax-{0}-zo4j295d12-zo4j295d12.gz
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\staticwebassets.build.json
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\staticwebassets.development.json
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\swae.build.ex.cache
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.csproj.Up2Date
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.dll
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\refint\db.dll
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.pdb
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\db.genruntimeconfig.cache
+C:\DISK D\Programing\C#\db\db\obj\Debug\net10.0\ref\db.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DISK D\Programing\C#\db\db\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\appsettings.json
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\db.staticwebassets.endpoints.json
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\db.staticwebassets.runtime.json
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\db.exe
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\db.deps.json
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\db.runtimeconfig.json
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\db.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\db.pdb
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Humanizer.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\koncc\Desktop\db\db\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.csproj.AssemblyReference.cache
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.AssemblyInfoInputs.cache
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.AssemblyInfo.cs
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.csproj.CoreCompileInputs.cache
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.RazorAssemblyInfo.cache
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.RazorAssemblyInfo.cs
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.sourcelink.json
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\scopedcss\bundle\db.styles.css
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\scopedcss\projectbundle\db.bundle.scp.css
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\ucga3c4rth-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\4c4ovdkvwd-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\ytuv98ybqx-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\6bxfprvkr7-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\ext49jay1j-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\aigmtebhws-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\co83jky2ry-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\g5zryaslvy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\q51784tt1w-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\6zjjfwm8q6-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\i0kwe556qt-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\itt1s83v40-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\oao0v3cn1j-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\k73xr1aw7e-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\5jodfu3kry-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\vg9pn6lhiz-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\vkjvvjo167-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\g2cae1r8iu-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\nntzdwwxj4-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\syjxib4m5k-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\6lzbrbygs3-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\2qecpvy3wr-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\eyuuaucfcn-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\8soyesvx2o-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\lqu1c59ggo-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\u3qh8h4cyv-{0}-06098lyss8-06098lyss8.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\sdqqrhb8uy-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\wvmmixb72l-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\ws2ox7ycow-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\hszozfht3e-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\f7n4wgl0p9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\72mdom3myu-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\4m9o1fvpyt-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\2s0x6ics9p-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\z7mm0p3w06-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\cfp845jly3-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\mcr4w6s2kh-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\iwwy0drvh8-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\mazbxjmcus-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\efpom4y3eo-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\tiyxfwst6p-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\qatk7xzw5f-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\wy0sdbmhr9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\z5ajxr3dvz-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\egu7jly1hc-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\swmnujasa7-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\s7z4tgfwt7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\f36z009d5u-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\ng683tel2a-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\4iargukh4u-{0}-356vix0kms-356vix0kms.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\p2ykbo0cx2-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\i5o9fszwoh-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\mfzagpztiy-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\penxnf6zbr-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\kefqetv6ro-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\kyfep969sk-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\n3y1s2xho7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\srlc4nyrvc-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\shwv9i93nm-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\bykjbwb21b-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\t3f0aidkap-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\6n24sfxoyd-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\29t2z0iwx4-{0}-zo4j295d12-zo4j295d12.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\compressed\vmna35h3ax-{0}-zo4j295d12-zo4j295d12.gz
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.csproj.Up2Date
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.dll
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\refint\db.dll
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.pdb
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\db.genruntimeconfig.cache
+C:\Users\koncc\Desktop\db\db\obj\Debug\net10.0\ref\db.dll

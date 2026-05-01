@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DISK D\\Programing\\C#\\HASHING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|c:\\disk d\\programing\\c#\\hashing\\hashing\\services\\authservicewithhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|solutionrelative:hashing\\services\\authservicewithhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|c:\\disk d\\programing\\c#\\hashing\\hashing\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|solutionrelative:hashing\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|c:\\disk d\\programing\\c#\\hashing\\hashing\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|solutionrelative:hashing\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|c:\\disk d\\programing\\c#\\hashing\\hashing\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|solutionrelative:hashing\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|c:\\disk d\\programing\\c#\\hashing\\hashing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|solutionrelative:hashing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|c:\\disk d\\programing\\c#\\hashing\\hashing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0997D2-28B0-C68A-2429-35F9FCB06949}|HASHING\\HASHING.csproj|solutionrelative:hashing\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HASHING\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HASHING\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T17:38:21.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "HASHING\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "HASHING\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:33:47.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "HASHING\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "HASHING\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T17:29:00.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServiceWithHash.cs",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Services\\AuthServiceWithHash.cs",
+              "RelativeDocumentMoniker": "HASHING\\Services\\AuthServiceWithHash.cs",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Services\\AuthServiceWithHash.cs",
+              "RelativeToolTip": "HASHING\\Services\\AuthServiceWithHash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:54:51.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HASHING\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HASHING\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:34:19.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HASHING\\Models\\User.cs",
+              "ToolTip": "C:\\DISK D\\Programing\\C#\\HASHING\\HASHING\\Models\\User.cs",
+              "RelativeToolTip": "HASHING\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:32:33.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
